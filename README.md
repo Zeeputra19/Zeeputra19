@@ -1,6 +1,7 @@
 ### Assalamualaikum Salam Kenal BRAY 
 **Zeeputra19/Zeeputra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Poto ganteng](/pak lili.png)
+
+![Poto ganteng](/pak-lili.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
