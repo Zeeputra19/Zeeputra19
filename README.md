@@ -1,9 +1,6 @@
-### Assalamualaikum Salam Kenal BRAY 👋
-
-<!--
+### Assalamualaikum Salam Kenal BRAY 
 **Zeeputra19/Zeeputra19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![Poto ganteng](/pak lili.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +11,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+
+
+
